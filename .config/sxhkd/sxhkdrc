@@ -1,0 +1,11 @@
+# change volume up
+super + shift + n
+    ~/.bin/changevolume up
+
+# change volume down
+super + shift + m
+    ~/.bin/changevolume down
+
+# change volume down
+super + shift + v
+    ~/.bin/changevolume mute
